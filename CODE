@@ -3,6 +3,7 @@
 <head>
 <title>Tic Tac Toe Game</title>
 <link src='Tic-Tac-Toe-Game/css'>
+<link src='Tic-Tac-Toe-Game/js'>
 </head>
 <body>
   <div id=border>
