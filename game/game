@@ -1,1 +1,30 @@
-/
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Tic Tac Toe Game</title>
+<link href='Tic-Tac-Toe-Game/css'>
+<link href='Tic-Tac-Toe-Game/js'>
+</head>
+<body>
+  <div id=border>
+    <div id =screen>
+      <div class="square top-left col-xs-4" id="0"></div>
+      <div class="square top-mid col-xs-4" id="1"></div>
+      <div class="square top-right col-xs-4" id="2"></div>
+      <div class="square mid-left col-xs-4" id="3"></div>
+      <div class="square mid-mid col-xs-4" id="4"></div>
+      <div class="square mid-right col-xs-4" id="5"></div>
+      <div class="square bottom-left col-xs-4" id="6"></div>
+      <div class="square bottom-mid col-xs-4" id="7"></div>
+      <div class="square bottom-right col-xs-4" id="8"></div>
+    </div>
+  </div>
+<div id=xuanze>
+    <h1>X or O?</h1>
+    <button id='X' value='X'>X</button>
+    <button id=O value='O'>O</button>
+  </div>
+<button id=gaibian>改变角色</button>   
+</body>
+</html>
